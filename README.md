@@ -15,6 +15,7 @@ Synthetic fish movement data from 3 Norwegian regions.
 Features: Date, Region, Water Temperature, Salinity, Depth, Season (derived).
 
 Target: Fish_Count (number of fish detected/moved).
+Target: Predict Fish_Count For Next 7 days.
 
 🛠️ Technologies & Tools
 Python 3
